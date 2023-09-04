@@ -1,3 +1,2 @@
 hello
 new text2
-pull test
